@@ -7,7 +7,7 @@
   "theme_color": "#146c54",
   "icons": [
     {
-      "src": "./icon.svg",
+      "src": "./icon-curie-2026060708.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"

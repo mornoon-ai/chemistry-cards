@@ -7,6 +7,7 @@ const ASSETS = [
   "./data.js?v=2026060708",
   "./manifest.webmanifest",
   "./icon.svg",
+  "./icon-curie-2026060708.svg",
 ];
 
 self.addEventListener("install", (event) => {

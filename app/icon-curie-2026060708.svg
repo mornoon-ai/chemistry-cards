@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="居里夫人头像">
+  <rect width="512" height="512" rx="112" fill="#eef7f2"/>
+  <g fill="#146c54">
+    <circle cx="190" cy="138" r="34"/>
+    <circle cx="232" cy="112" r="35"/>
+    <circle cx="278" cy="112" r="35"/>
+    <circle cx="322" cy="138" r="34"/>
+    <circle cx="164" cy="190" r="31"/>
+    <circle cx="348" cy="190" r="31"/>
+    <path d="M167 203c4-70 42-116 89-116s85 46 89 116c4 67-30 126-89 126s-93-59-89-126z"/>
+    <path d="M156 396c23-54 62-86 100-86s77 32 100 86c7 17-5 36-24 36H180c-19 0-31-19-24-36z"/>
+    <path d="M214 331h84l16 57h-116l16-57z"/>
+  </g>
+  <g fill="#eef7f2">
+    <path d="M206 129c28 34 71 34 100 0 14 29 19 70 14 99-10-28-31-52-64-52s-54 24-64 52c-5-29 0-70 14-99z"/>
+    <ellipse cx="226" cy="223" rx="15" ry="10"/>
+    <ellipse cx="286" cy="223" rx="15" ry="10"/>
+    <path d="M246 239c6 3 14 3 20 0 3 19-2 31-10 31s-13-12-10-31z"/>
+    <path d="M213 287c25 18 61 18 86 0-7 24-23 42-43 42s-36-18-43-42z"/>
+    <path d="M224 361h64l10 35h-84l10-35z"/>
+  </g>
+  <g fill="none" stroke="#146c54" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M209 203c13-10 28-10 41-2" stroke-width="13"/>
+    <path d="M263 201c15-8 30-7 42 3" stroke-width="13"/>
+    <path d="M221 286c21 17 49 17 70 0" stroke-width="15"/>
+    <path d="M207 113c23 37 75 37 98 0" stroke-width="15"/>
+    <path d="M203 407h106" stroke-width="16"/>
+  </g>
+</svg>
