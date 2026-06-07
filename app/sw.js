@@ -1,10 +1,10 @@
-const CACHE = "chemistry-cards-v1-2026060705";
+const CACHE = "chemistry-cards-v1-2026060708";
 const ASSETS = [
   "./",
   "./index.html",
-  "./styles.css?v=2026060702",
-  "./app.js?v=2026060704",
-  "./data.js?v=2026060704",
+  "./styles.css?v=2026060708",
+  "./app.js?v=2026060708",
+  "./data.js?v=2026060708",
   "./manifest.webmanifest",
   "./icon.svg",
 ];

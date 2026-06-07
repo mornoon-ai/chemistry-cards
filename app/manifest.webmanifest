@@ -3,8 +3,8 @@
   "short_name": "化学卡片",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#111111",
+  "background_color": "#eef7f2",
+  "theme_color": "#146c54",
   "icons": [
     {
       "src": "./icon.svg",
